@@ -1,0 +1,34 @@
+{
+  "//1": "Lrows V12 Müzik pardon v12",
+  "name": "lrowsmuzik",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "Asreaper.js",
+  "scripts": {
+    "start": "node Asreaper.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.2",
+    "path": "^0.12.7",
+    "simple-youtube-api": "^5.2.1",
+    "@discordjs/opus": "^0.5.3",
+    "genius-lyrics": "^4.2.9",
+    "ytdl-core": "^4.9.1",
+    "ytdl-core-discord": "^1.3.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/join/3678810c-2f78-4117-81c2-e97f416996bb"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "author": "Swth"
+}
