@@ -52,5 +52,5 @@ client.on("message", message => {
   
 });
 
-client.login(config.TOKEN)
+client.login("ODM1MTExMjg5NDExNzMxNDY3.YIKr_w.k6lar09GooHFna76O_n2lEWGobU")
 
