@@ -1,1 +1,1 @@
-worker: node Aspreaper.js
+worker: node Asreaper.js
