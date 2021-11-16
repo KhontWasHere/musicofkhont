@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const {PREFIX} = require('../config.json')
 module.exports = {
-  name: "yardımşarkı",
+  name: "yardım",
   description: "müzikyardım",
   execute(client, message) {
   message.channel.send(new Discord.MessageEmbed()
