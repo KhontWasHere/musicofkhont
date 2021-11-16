@@ -8,7 +8,6 @@ const { TOKEN, PREFIX } = require("./config.json")
 
 client.on("ready", () => {
   console.log('Şarkı Çalmaya Hazırım!')
-  client.user.setStatus("idle"),
   client.user.setActivity("Norm Was Here!")
 })
 
